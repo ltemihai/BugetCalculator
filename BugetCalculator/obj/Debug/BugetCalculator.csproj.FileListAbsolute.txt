@@ -1,0 +1,1 @@
+C:\Users\darkm\Documents\Visual Studio 2015\Projects\BugetCalculator\BugetCalculator\bin\Debug\BugetCalculator.exe.config
